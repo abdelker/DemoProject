@@ -4,12 +4,12 @@
         branch = 4.25
 [submodule "Plugins/UUtils"]
 	path = Plugins/UUtils
-	url = git@github.com:urobosim/UUtils.git
-        branch = 4.25_backward
+	url = git@github.com:robcog-iai/UUtils.git
+        branch = master
 [submodule "Plugins/UROSWorldControl"]
 	path = Plugins/UROSWorldControl
-	url = git@github.com:urobosim/UROSWorldControl.git
-        branch = 4.25
+	url = git@github.com:robcog-iai/UROSWorldControl.git
+        branch = master
 [submodule "Plugins/URoboSim"]
 	path = Plugins/URoboSim
 	url = git@github.com:urobosim/URoboSim.git
