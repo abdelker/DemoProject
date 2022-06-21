@@ -24,3 +24,7 @@
 	path = Plugins/UIAIAvatar
 	url = https://github.com/code-iai/UIAIAvatar.git
 	branch = master
+[submodule "Plugins/UPhysicsBasedMC"]
+	path = Plugins/UPhysicsBasedMC
+	url = https://github.com/robcog-iai/UPhysicsBasedMC.git
+	branch = master
