@@ -3,27 +3,11 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "GoogleARCore",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Android"
-			]
-		},
-		{
-			"Name": "AppleARKit",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac"
-			]
+			"Name": "DemoProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
-	],
-	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"LinuxNoEditor"
 	]
 }
