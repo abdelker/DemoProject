@@ -20,10 +20,6 @@
 [submodule "Plugins/UROSBridge"]
 	path = Plugins/UROSBridge
 	url = git@github.com:urobosim/UROSBridge.git
-[submodule "Plugins/UIAIAvatar"]
-	path = Plugins/UIAIAvatar
-	url = https://github.com/code-iai/UIAIAvatar.git
-	branch = master
 [submodule "Plugins/UPhysicsBasedMC"]
 	path = Plugins/UPhysicsBasedMC
 	url = https://github.com/robcog-iai/UPhysicsBasedMC.git
