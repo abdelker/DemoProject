@@ -28,3 +28,7 @@
 	path = Plugins/UPhysicsBasedMC
 	url = https://github.com/robcog-iai/UPhysicsBasedMC.git
 	branch = master
+[submodule "Plugins/UE4DTW"]
+	path = Plugins/UE4DTW
+	url = https://github.com/code-iai/UE4DTW.git
+	branch = master
